@@ -7,10 +7,10 @@ library(twitteR)
 #####################################
 
 # Oauth authentication with API key and token
-consumer_key <- "Plvzd9TAYPHicSTylSk1MZb3f"
-consumer_secret <- "2o0uJQq5ibWINVx7TSzEO8mXRAoVc5u6gYJPTV72byBwUKoL6V"
-access_token <- "18792555-ntGozN0Djz67IYosH5DceMkJ9eVVab56Hb1KcZo73"
-access_secret <- "nthO4KcSl01Uk2SrSMrMXcg4lrDO1PN70e9nFxxAtaqeR"
+consumer_key <- "xxxxxxxxxxxx"
+consumer_secret <- "2xxxxxxxxxxoL6V"
+access_token <- "1xxxxxxxx3"
+access_secret <- "nxxxxxxxxxxxAtaqeR"
 
 collection_date <- format(Sys.time(), "%d%b%Y")
 # Twitter oauth
